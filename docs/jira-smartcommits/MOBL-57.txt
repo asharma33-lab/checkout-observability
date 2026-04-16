@@ -1,0 +1,2 @@
+MOBL-57 — Implement circuit breaker for Stripe API calls
+https://one-atlas-qdiv.atlassian.net/browse/MOBL-57
