@@ -1,0 +1,3 @@
+Cross-reference: mobile session RFC revisit epic MOBL-59
+https://one-atlas-qdiv.atlassian.net/browse/MOBL-59
+Related repo: github.com/asharma33-lab/mobile-session-rfc
